@@ -1,0 +1,9 @@
+.SearchResult {
+  margin: 20px 70px;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.SearchResult span {
+  color: #828282;
+}
